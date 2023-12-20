@@ -1,4 +1,4 @@
 # FolderProcessing
 Processes files in selected path
 
-Simple Java program which utilises AutoHotKey script.
+Java program which asks user for directory, lists all files in directory, and lets user select which files they want to be processed by AHK
